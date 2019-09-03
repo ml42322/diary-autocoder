@@ -1,0 +1,4 @@
+recursive-include ce_diary_autocoder/col_text *
+recursive-include ce_diary_autocoder/json *
+recursive-include ce_diary_autocoder/models *
+recursive-include ce_diary_autocoder/vectorizers *
